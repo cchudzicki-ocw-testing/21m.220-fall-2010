@@ -9,8 +9,7 @@ uid: da35e008-3cb1-1d51-fbff-ca7cc8a6b8e7
 TimeMap
 -------
 
-[{{< resource 1a9cf99b-dc22-2df7-3299-1e17bed81494 "Screenshot image of TimeMap, showing a scrolling timeline on the left side and a map of western Europe on the right, along with pop-up video player window." >}}](http://code.google.com/p/timemap/
-)
+{{< resource uuid="1a9cf99b-dc22-2df7-3299-1e17bed81494" href="http://code.google.com/p/timemap/ " >}}
 
 [TimeMap](http://code.google.com/p/timemap/
 ) helps you to explore and compare music that was composed at the same time and/or in close geographical proximity. (TimeMap is best viewed with Firefox and Safari browsers. Image courtesy of Natasha Skowronski. Used with permission.)
